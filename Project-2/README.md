@@ -1,1 +1,1 @@
-my Internship work and projects
+A Simple Calculator built using Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division through a command-line interface. The project is designed to demonstrate fundamental Python concepts, including variables, user input, conditional statements, functions, and operators. It provides an easy-to-use interface where users can perform calculations quickly and accurately. This beginner-friendly project is ideal for understanding the basics of programming and improving problem-solving skills.
